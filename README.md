@@ -65,12 +65,14 @@
 
 * [Modern DevOps - Udemy](https://www.udemy.com/modern-devops)
 * [AWS Cloud Guru - Certification Training](https://acloud.guru/)
+* [AutoMyTest - DevOps Institute Registered Education Partner](http://www.automytest.com/training-overview/)
 
 ### Books
 
 * [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 * [Site Reliability Engineering](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/)
 * [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/)
+* [The Pheonix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509)
 
 ## Contributing
 

@@ -65,6 +65,7 @@
 
 * [Modern DevOps - Udemy](https://www.udemy.com/modern-devops)
 * [AWS Cloud Guru - Certification Training](https://acloud.guru/)
+* [AutoMyTest - DevOps Institute Registered Education Partner](http://www.automytest.com/training-overview/)
 
 ### Books
 

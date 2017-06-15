@@ -8,6 +8,7 @@ Table of Contents
   * [Chef](#chef)
   * [Puppet](#puppet)
   * [Salt](#salt)
+  * [StackStorm](#stackstorm)
 
 ## Infrastructure as Code
 

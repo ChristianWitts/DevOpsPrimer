@@ -35,6 +35,7 @@ Table of Contents
 * [Bridget Kromhout](http://bridgetkromhout.com/)
 * [Cloudflare](https://blog.cloudflare.com/)
 * [Codeship](https://blog.codeship.com/)
+* [DevOpsGuys](https://www.devopsguys.com/blog/)
 * [Digital Ocean](https://blog.digitalocean.com/)
 * [Dropbox](https://dropboxtechblog.wordpress.com/)
 * [Facebook](https://code.facebook.com/)
@@ -90,6 +91,7 @@ Table of Contents
 
 ## Additional Resources
 
+* [DevOps Security Checklist](https://devops-security-checklist.sqreen.io/)
 * [Infrastructure as Code](IAC.md)
 
 ## Contributing

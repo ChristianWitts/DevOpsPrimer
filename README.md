@@ -64,6 +64,8 @@ Table of Contents
 * [The Info Podcast](https://overcast.fm/itunes1106971805/the-infoq-podcast)
 * [Microsoft Partner Network Podcast](https://overcast.fm/itunes1099620520/microsoft-partner-network-podcast)
 * [Packet Pushers - Datanauts](https://overcast.fm/p329604-ekeK3F)
+* [PerfBytes](https://www.spreaker.com/show/perfbytes)
+* [Pure Performance](http://www.spreaker.com/show/pureperformance)
 * [Software Engineering Daily](https://overcast.fm/itunes1019576853/software-engineering-daily)
 * [Software Engineering Radio](https://overcast.fm/itunes120906714/software-engineering-radio-the-podcast-for-professional-software-developers)
 * [SysAdmin Casts](https://sysadmincasts.com/)

@@ -14,6 +14,8 @@ Table of Contents
 
 Infrastructure as code is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
 
+- [Baking Delicious Cloud Instances](https://blog.kintoandar.com/2017/06/Baking-delicious-cloud-instances.html)
+
 ### Packer
 
 [Packer](https://www.packer.io/) is a free and open source tool for creating golden images for multiple platforms from a single source configuration. Packer is lightweight, runs on every major operating system, and is highly performant, creating machine images for multiple platforms in parallel. Packer does not replace configuration management like Chef or Puppet. In fact, when building images, Packer is able to use tools like Chef or Puppet to install software onto the image.

@@ -90,6 +90,7 @@ Table of Contents
 * [Site Reliability Engineering](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/)
 * [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/)
 * [The Pheonix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509)
+* [DevOps README.md](https://chrisshort.net/devops-readme.md/)
 
 ## Additional Resources
 

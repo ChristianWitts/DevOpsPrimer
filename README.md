@@ -97,6 +97,7 @@ Table of Contents
 * [DevOps Security Checklist](https://devops-security-checklist.sqreen.io/)
 * [Awesome DevOps](https://github.com/AcalephStorage/awesome-devops)
 * [Infrastructure as Code](IAC.md)
+* [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
 
 ## Contributing
 

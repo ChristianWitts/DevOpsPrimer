@@ -76,7 +76,7 @@ Table of Contents
 
 ### Conferences
 
-* [DevOps Days Cape Town](https://www.devopsdays.org/events/2017-cape-town/welcome/)
+* [DevOps Days Cape Town](https://www.devopsdays.org/cape-town)
 
 ### Courses
 
@@ -86,10 +86,11 @@ Table of Contents
 
 ### Books
 
-* [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
+* [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
 * [Site Reliability Engineering](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/)
 * [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/)
-* [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509)
+* [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/)
+* [The Unicorn Project](https://itrevolution.com/the-unicorn-project/)
 * [DevOps README.md](https://chrisshort.net/devops-readme.md/)
 
 ## Additional Resources

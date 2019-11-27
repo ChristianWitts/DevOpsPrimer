@@ -87,7 +87,7 @@ Table of Contents
 ### Books
 
 * [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
-* [Site Reliability Engineering](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/)
+* [Site Reliability Engineering](https://landing.google.com/sre/books/)
 * [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/)
 * [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/)
 * [The Unicorn Project](https://itrevolution.com/the-unicorn-project/)
